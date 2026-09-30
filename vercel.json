@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/fv-energia", "destination": "https://fv-energia-solar.vercel.app/fv-energia" },
+    { "source": "/fv-energia/:path*", "destination": "https://fv-energia-solar.vercel.app/fv-energia/:path*" }
+  ]
+}
