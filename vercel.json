@@ -4,6 +4,8 @@
     { "source": "/fv-energia", "destination": "https://fv-energia-solar.vercel.app/fv-energia" },
     { "source": "/fv-energia/:path*", "destination": "https://fv-energia-solar.vercel.app/fv-energia/:path*" },
     { "source": "/renata-atanasio", "destination": "https://renata-atanasio.vercel.app/renata-atanasio" },
-    { "source": "/renata-atanasio/:path*", "destination": "https://renata-atanasio.vercel.app/renata-atanasio/:path*" }
+    { "source": "/renata-atanasio/:path*", "destination": "https://renata-atanasio.vercel.app/renata-atanasio/:path*" },
+    { "source": "/colegio-davilohn", "destination": "https://colegio-davilohn.vercel.app/colegio-davilohn" },
+    { "source": "/colegio-davilohn/:path*", "destination": "https://colegio-davilohn.vercel.app/colegio-davilohn/:path*" }
   ]
 }

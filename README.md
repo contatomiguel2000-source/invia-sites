@@ -8,3 +8,4 @@ Para adicionar um site novo, incluir as duas linhas de `rewrites` do slug no `ve
 |---|---|
 | `/fv-energia` | https://fv-energia-solar.vercel.app/fv-energia |
 | `/renata-atanasio` | https://renata-atanasio.vercel.app/renata-atanasio |
+| `/colegio-davilohn` | https://colegio-davilohn.vercel.app/colegio-davilohn |
