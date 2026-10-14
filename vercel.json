@@ -6,6 +6,8 @@
     { "source": "/renata-atanasio", "destination": "https://renata-atanasio.vercel.app/renata-atanasio" },
     { "source": "/renata-atanasio/:path*", "destination": "https://renata-atanasio.vercel.app/renata-atanasio/:path*" },
     { "source": "/colegio-davilohn", "destination": "https://colegio-davilohn.vercel.app/colegio-davilohn" },
-    { "source": "/colegio-davilohn/:path*", "destination": "https://colegio-davilohn.vercel.app/colegio-davilohn/:path*" }
+    { "source": "/colegio-davilohn/:path*", "destination": "https://colegio-davilohn.vercel.app/colegio-davilohn/:path*" },
+    { "source": "/vila-raposa", "destination": "https://vila-raposa.vercel.app/vila-raposa" },
+    { "source": "/vila-raposa/:path*", "destination": "https://vila-raposa.vercel.app/vila-raposa/:path*" }
   ]
 }
