@@ -8,6 +8,8 @@
     { "source": "/colegio-davilohn", "destination": "https://colegio-davilohn.vercel.app/colegio-davilohn" },
     { "source": "/colegio-davilohn/:path*", "destination": "https://colegio-davilohn.vercel.app/colegio-davilohn/:path*" },
     { "source": "/vila-raposa", "destination": "https://vila-raposa.vercel.app/vila-raposa" },
-    { "source": "/vila-raposa/:path*", "destination": "https://vila-raposa.vercel.app/vila-raposa/:path*" }
+    { "source": "/vila-raposa/:path*", "destination": "https://vila-raposa.vercel.app/vila-raposa/:path*" },
+    { "source": "/studio-ello", "destination": "https://studio-ello-kappa.vercel.app/studio-ello" },
+    { "source": "/studio-ello/:path*", "destination": "https://studio-ello-kappa.vercel.app/studio-ello/:path*" }
   ]
 }
