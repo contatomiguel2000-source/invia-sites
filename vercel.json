@@ -10,6 +10,8 @@
     { "source": "/vila-raposa", "destination": "https://vila-raposa.vercel.app/vila-raposa" },
     { "source": "/vila-raposa/:path*", "destination": "https://vila-raposa.vercel.app/vila-raposa/:path*" },
     { "source": "/studio-ello", "destination": "https://studio-ello-kappa.vercel.app/studio-ello" },
-    { "source": "/studio-ello/:path*", "destination": "https://studio-ello-kappa.vercel.app/studio-ello/:path*" }
+    { "source": "/studio-ello/:path*", "destination": "https://studio-ello-kappa.vercel.app/studio-ello/:path*" },
+    { "source": "/mariana-cabral", "destination": "https://mariana-cabral.vercel.app/mariana-cabral" },
+    { "source": "/mariana-cabral/:path*", "destination": "https://mariana-cabral.vercel.app/mariana-cabral/:path*" }
   ]
 }

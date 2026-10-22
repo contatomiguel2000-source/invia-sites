@@ -11,3 +11,4 @@ Para adicionar um site novo, incluir as duas linhas de `rewrites` do slug no `ve
 | `/colegio-davilohn` | https://colegio-davilohn.vercel.app/colegio-davilohn |
 | `/vila-raposa` | https://vila-raposa.vercel.app/vila-raposa |
 | `/studio-ello` | https://studio-ello-kappa.vercel.app/studio-ello (o nome studio-ello.vercel.app já era de outra pessoa) |
+| `/mariana-cabral` | https://mariana-cabral.vercel.app/mariana-cabral |
