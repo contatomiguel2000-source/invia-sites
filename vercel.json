@@ -12,6 +12,8 @@
     { "source": "/studio-ello", "destination": "https://studio-ello-kappa.vercel.app/studio-ello" },
     { "source": "/studio-ello/:path*", "destination": "https://studio-ello-kappa.vercel.app/studio-ello/:path*" },
     { "source": "/mariana-cabral", "destination": "https://mariana-cabral.vercel.app/mariana-cabral" },
-    { "source": "/mariana-cabral/:path*", "destination": "https://mariana-cabral.vercel.app/mariana-cabral/:path*" }
+    { "source": "/mariana-cabral/:path*", "destination": "https://mariana-cabral.vercel.app/mariana-cabral/:path*" },
+    { "source": "/lidia-arquiteta", "destination": "https://lidia-arquiteta.vercel.app/lidia-arquiteta" },
+    { "source": "/lidia-arquiteta/:path*", "destination": "https://lidia-arquiteta.vercel.app/lidia-arquiteta/:path*" }
   ]
 }
