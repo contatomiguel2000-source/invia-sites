@@ -14,6 +14,8 @@
     { "source": "/mariana-cabral", "destination": "https://mariana-cabral.vercel.app/mariana-cabral" },
     { "source": "/mariana-cabral/:path*", "destination": "https://mariana-cabral.vercel.app/mariana-cabral/:path*" },
     { "source": "/lidia-arquiteta", "destination": "https://lidia-arquiteta.vercel.app/lidia-arquiteta" },
-    { "source": "/lidia-arquiteta/:path*", "destination": "https://lidia-arquiteta.vercel.app/lidia-arquiteta/:path*" }
+    { "source": "/lidia-arquiteta/:path*", "destination": "https://lidia-arquiteta.vercel.app/lidia-arquiteta/:path*" },
+    { "source": "/thais-dela-justina", "destination": "https://thais-dela-justina.vercel.app/thais-dela-justina" },
+    { "source": "/thais-dela-justina/:path*", "destination": "https://thais-dela-justina.vercel.app/thais-dela-justina/:path*" }
   ]
 }
