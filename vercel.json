@@ -18,6 +18,8 @@
     { "source": "/thais-dela-justina", "destination": "https://thais-dela-justina.vercel.app/thais-dela-justina" },
     { "source": "/thais-dela-justina/:path*", "destination": "https://thais-dela-justina.vercel.app/thais-dela-justina/:path*" },
     { "source": "/taissa-santos", "destination": "https://taissa-santos.vercel.app/taissa-santos" },
-    { "source": "/taissa-santos/:path*", "destination": "https://taissa-santos.vercel.app/taissa-santos/:path*" }
+    { "source": "/taissa-santos/:path*", "destination": "https://taissa-santos.vercel.app/taissa-santos/:path*" },
+    { "source": "/taina-andrade", "destination": "https://taina-andrade.vercel.app/taina-andrade" },
+    { "source": "/taina-andrade/:path*", "destination": "https://taina-andrade.vercel.app/taina-andrade/:path*" }
   ]
 }
