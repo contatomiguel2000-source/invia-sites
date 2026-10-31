@@ -16,6 +16,8 @@
     { "source": "/lidia-arquiteta", "destination": "https://lidia-arquiteta.vercel.app/lidia-arquiteta" },
     { "source": "/lidia-arquiteta/:path*", "destination": "https://lidia-arquiteta.vercel.app/lidia-arquiteta/:path*" },
     { "source": "/thais-dela-justina", "destination": "https://thais-dela-justina.vercel.app/thais-dela-justina" },
-    { "source": "/thais-dela-justina/:path*", "destination": "https://thais-dela-justina.vercel.app/thais-dela-justina/:path*" }
+    { "source": "/thais-dela-justina/:path*", "destination": "https://thais-dela-justina.vercel.app/thais-dela-justina/:path*" },
+    { "source": "/taissa-santos", "destination": "https://taissa-santos.vercel.app/taissa-santos" },
+    { "source": "/taissa-santos/:path*", "destination": "https://taissa-santos.vercel.app/taissa-santos/:path*" }
   ]
 }
