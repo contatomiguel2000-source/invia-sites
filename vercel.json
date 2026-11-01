@@ -22,6 +22,8 @@
     { "source": "/taina-andrade", "destination": "https://taina-andrade.vercel.app/taina-andrade" },
     { "source": "/taina-andrade/:path*", "destination": "https://taina-andrade.vercel.app/taina-andrade/:path*" },
     { "source": "/mirllem-tassia", "destination": "https://mirllem-tassia.vercel.app/mirllem-tassia" },
-    { "source": "/mirllem-tassia/:path*", "destination": "https://mirllem-tassia.vercel.app/mirllem-tassia/:path*" }
+    { "source": "/mirllem-tassia/:path*", "destination": "https://mirllem-tassia.vercel.app/mirllem-tassia/:path*" },
+    { "source": "/pinheiro-rocha", "destination": "https://pinheiro-rocha.vercel.app/pinheiro-rocha" },
+    { "source": "/pinheiro-rocha/:path*", "destination": "https://pinheiro-rocha.vercel.app/pinheiro-rocha/:path*" }
   ]
 }
