@@ -16,3 +16,4 @@ Para adicionar um site novo, incluir as duas linhas de `rewrites` do slug no `ve
 | `/thais-dela-justina` | https://thais-dela-justina.vercel.app/thais-dela-justina |
 | `/taissa-santos` | https://taissa-santos.vercel.app/taissa-santos |
 | `/taina-andrade` | https://taina-andrade.vercel.app/taina-andrade |
+| `/mirllem-tassia` | https://mirllem-tassia.vercel.app/mirllem-tassia |
