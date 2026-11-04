@@ -26,6 +26,8 @@
     { "source": "/pinheiro-rocha", "destination": "https://pinheiro-rocha.vercel.app/pinheiro-rocha" },
     { "source": "/pinheiro-rocha/:path*", "destination": "https://pinheiro-rocha.vercel.app/pinheiro-rocha/:path*" },
     { "source": "/fonseca-camargo", "destination": "https://fonseca-camargo.vercel.app/fonseca-camargo" },
-    { "source": "/fonseca-camargo/:path*", "destination": "https://fonseca-camargo.vercel.app/fonseca-camargo/:path*" }
+    { "source": "/fonseca-camargo/:path*", "destination": "https://fonseca-camargo.vercel.app/fonseca-camargo/:path*" },
+    { "source": "/marilia-bezerra", "destination": "https://marilia-bezerra.vercel.app/marilia-bezerra" },
+    { "source": "/marilia-bezerra/:path*", "destination": "https://marilia-bezerra.vercel.app/marilia-bezerra/:path*" }
   ]
 }
