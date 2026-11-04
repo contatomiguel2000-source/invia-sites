@@ -18,3 +18,4 @@ Para adicionar um site novo, incluir as duas linhas de `rewrites` do slug no `ve
 | `/taina-andrade` | https://taina-andrade.vercel.app/taina-andrade |
 | `/mirllem-tassia` | https://mirllem-tassia.vercel.app/mirllem-tassia |
 | `/pinheiro-rocha` | https://pinheiro-rocha.vercel.app/pinheiro-rocha |
+| `/fonseca-camargo` | https://fonseca-camargo.vercel.app/fonseca-camargo |

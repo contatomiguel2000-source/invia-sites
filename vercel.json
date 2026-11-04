@@ -24,6 +24,8 @@
     { "source": "/mirllem-tassia", "destination": "https://mirllem-tassia.vercel.app/mirllem-tassia" },
     { "source": "/mirllem-tassia/:path*", "destination": "https://mirllem-tassia.vercel.app/mirllem-tassia/:path*" },
     { "source": "/pinheiro-rocha", "destination": "https://pinheiro-rocha.vercel.app/pinheiro-rocha" },
-    { "source": "/pinheiro-rocha/:path*", "destination": "https://pinheiro-rocha.vercel.app/pinheiro-rocha/:path*" }
+    { "source": "/pinheiro-rocha/:path*", "destination": "https://pinheiro-rocha.vercel.app/pinheiro-rocha/:path*" },
+    { "source": "/fonseca-camargo", "destination": "https://fonseca-camargo.vercel.app/fonseca-camargo" },
+    { "source": "/fonseca-camargo/:path*", "destination": "https://fonseca-camargo.vercel.app/fonseca-camargo/:path*" }
   ]
 }
